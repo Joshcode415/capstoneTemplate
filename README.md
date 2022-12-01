@@ -1,2 +1,0 @@
-# capstoneTemplate
- backbone for template
